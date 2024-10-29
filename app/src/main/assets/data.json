@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Nguyen Van A",
+    "studentId": "123456"
+  },
+  {
+    "name": "Tran Thi B",
+    "studentId": "654321"
+  },
+  {
+    "name": "Le Van C",
+    "studentId": "789012"
+  },
+  {
+    "name": "Pham Thi D",
+    "studentId": "345678"
+  },
+  {
+    "name": "Hoang Van E",
+    "studentId": "901234"
+  },
+  {
+    "name": "Nguyen Thi F",
+    "studentId": "567890"
+  },
+  {
+    "name": "Tran Van G",
+    "studentId": "234567"
+  },
+  {
+    "name": "Le Thi H",
+    "studentId": "890123"
+  },
+  {
+    "name": "Pham Van I",
+    "studentId": "456789"
+  },
+  {
+    "name": "Hoang Thi J",
+    "studentId": "012345"
+  }
+]
